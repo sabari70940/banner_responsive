@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid .navbar-brand{
+    color: blue;
+    font-weight: 50px solid;
+}
+.nav-link{
+    
+    color:green;
+    font-weight: 30px;
+    margin-left: 30px;
+}
+.wrapper{
+    margin: 50px auto;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 0 40px 2px rgb(109, 129, 211);
+}
+.box{
+    padding: 30px;
+}
+.box h1{
+    margin-top: 20%;
+    color: blueviolet;
+}
+.box p{
+    margin: 50px auto;
+    color: #555;
+}
+.box a{
+    text-decoration: none;
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-right: 30px;
+    border: 2px solid;
+    color: white;
+}
+.img{
+    width: 100%;
+    padding: 40px;
+    height: 500px;
+}
